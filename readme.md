@@ -237,15 +237,6 @@
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 
-<br>
-<hr>
-<br>
-<br>
-
-<br>
-<br>
-<hr>
-<br>
 
 ## Front-End Development
 
